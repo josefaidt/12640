@@ -28,5 +28,12 @@
       "providerPlugin": "awscloudformation",
       "service": "Cognito"
     }
+  },
+  "hosting": {
+    "amplifyhosting": {
+      "lastPushTimeStamp": "2023-05-17T22:28:16.118Z",
+      "service": "amplifyhosting",
+      "type": "cicd"
+    }
   }
 }
