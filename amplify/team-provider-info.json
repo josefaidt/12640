@@ -20,6 +20,9 @@
           "appId": "d33s566qkjqjly",
           "type": "cicd"
         }
+      },
+      "function": {
+        "12640133b89bd": {}
       }
     }
   }
