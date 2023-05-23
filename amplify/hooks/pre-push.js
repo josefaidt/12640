@@ -14,7 +14,6 @@ if (currentCLIMajorVersion < MINIMUM_MAJOR_AMPLIFY_CLI_VERSION) {
     process.exit(1)
 } else {
     console.log('Minimum CLI version requirement met.')
-    process.exit(0)
 }
 
 // Read parameters and get env name
